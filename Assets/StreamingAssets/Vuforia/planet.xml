@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="moon_texture" size="5.000000 2.500000" />
+    <ImageTarget name="gezegenler" size="5.000000 8.888889" />
+    <ImageTarget name="earth" size="5.000000 8.888889" />
+  </Tracking>
+</QCARConfig>
