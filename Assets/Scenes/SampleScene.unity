@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 286122786}
   - component: {fileID: 286122785}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: bordokup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -459,7 +459,7 @@ GameObject:
   - component: {fileID: 807390890}
   - component: {fileID: 807390889}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: yuvarlak
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
